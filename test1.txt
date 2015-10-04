@@ -1,0 +1,26 @@
+HAM MESSAGES:
+
+ham1.txt
+-------
+foo bar is a great sentence
+
+ham2.txt
+-------
+totally legitimate ham message
+please send me a ham sandwich
+
+SPAM MESSAGES:
+
+spam1.txt
+--------
+buy replica foo watches
+great prices on foo
+
+spam2.txt
+--------
+Nigerian oil money available
+enter your credit card information please
+
+spam3.txt
+--------
+enter your password please
